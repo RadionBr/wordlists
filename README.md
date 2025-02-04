@@ -28,3 +28,5 @@ Another crawlers
 
 OSINT
 - sherlock
+Leaked DB
+- curl https://api.proxynova.com/comb?query=jrubin&start=0&limit=15 | jq
