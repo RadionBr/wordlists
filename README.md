@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/95bf40b6-44c8-4387-bd63-0b2d31e6328c)
+
 KALI LINUX most used commands examples:
 
 - gobuster dir -u https://example.com -w /wordlists/Discovery/Web-Content/common.txt  #gobuster
