@@ -15,3 +15,9 @@ KALI LINUX most used commands examples:
 - python3 web–brutator.py --target standardform --url https://site.com/wp-login.php -u admin -P pass.txt -s -t 40 -v
 - instashell #PASSWORDS wordlist
 - patator ftp_login host=10.10.0.50 user=FILE0 password=FILE1 0=usernames.txt 1=passwords.txt
+
+TOP Scan
+nmap -sC -sV -T4 "IP"
+nmap -sX "IP"
+Another crawlers
+python photon.py -u "http://example.com"
