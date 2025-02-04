@@ -22,6 +22,7 @@ KALI LINUX most used commands examples:
 TOP Scan
 - nmap -sC -sV -T4 "IP"
 - nmap -sX "IP"
+- nikto - h "url"
   
 Another crawlers
 - python photon.py -u "http://example.com"
