@@ -31,3 +31,7 @@ OSINT
 - sherlock
 Leaked DB
 - curl https://api.proxynova.com/comb?query=jrubin&start=0&limit=15 | jq #passwords
+
+DECODE
+- https://gchq.github.io/CyberChef/#recipe=URL_Encode(false)
+
